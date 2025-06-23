@@ -1,0 +1,23 @@
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore the main binary
+calc
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore editor/IDE files
+.vscode/
+*.code-workspace
+*.DS_Store
+*.bak
+*.sublime*
+
+# Ignore build directories
+build/
+dist/
